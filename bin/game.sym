@@ -1,0 +1,93 @@
+.label titleSprite_playing_2=$6940 {
+}
+.label titleSprite_playing_1=$6840 {
+}
+.label titleScreen=$8000
+.label MShort=$3410
+.label LLen=$33ad
+.label bitmap=$4000
+.label Mdone=$3412
+.label intro_EW_logo_begg=$3169
+.label initTune=$c66
+.label irq_index=$898 {
+}
+.label handleIndexSprites_end=$9dc
+.label last_irq=$928 {
+}
+.label titleSprite_playing_3=$6a40 {
+}
+.label colorRAM=$6400
+.label irq_bottom_border=$8f9 {
+}
+.label handleStars=$ad0
+.label LLoop=$33a1
+.label PULSE_stars_startIndexes=$34eb
+.label getNewBits=$3436
+.label PULSE_colortable=$348b
+.label decrunch=$335d
+.label LUT_titleSprites_playing=$3458
+.label L1=$33aa
+.label screenRAM=$6000
+.label irq=$861 {
+}
+.label irq_title=$8cf {
+}
+.label handleKeyboard=$bab
+.label starSprite=$6800 {
+}
+.label Tab=$344a
+.label MLda=$3420
+.label key1=$bbb
+.label key2=$bc7
+.label handleStars_skip_reset=$ba7
+.label gameScreen=$9e70
+.label EW_logoFadetab=$325d
+.label key3=$bd3
+.label handleTitleSprites=$9e2
+.label FADE_OUT_colortable=$345b
+.label M8=$3401
+.label readKey=$3000
+.label indexSprite_1=$6e40 {
+}
+.label indexSprite_2=$6f40 {
+}
+.label indexSprite_3=$7040 {
+}
+.label Literal=$3387 {
+}
+.label logoSprites=$3500 {
+}
+.label Get1=$3436
+.label Get3=$33a1
+.label Get2=$3404
+.label titleSprite_2=$6c40 {
+}
+.label titleSprite_3=$6d40 {
+}
+.label MLen=$3425
+.label FADE_IN_colortable=$347b
+.label titleSprite_1=$6b40 {
+}
+.label LUT_titleSprites=$3455
+.label End=$3435
+.label nokey=$3039
+.label M_1=$33f5 {
+}
+.label GnbInc=$3440
+.label intro_EW_logo_end=$325c
+.label GnbEnd=$3449
+.label handleIndexSprites=$954
+.label endKeyRead=$bde
+.label initPlayer=$bea
+.label initStars=$bdf
+.label Match=$33be {
+}
+.label intro_EW_logo=$313b
+.label LUT_indexSprites=$3452
+.label player_start=$810
+.label start=$810
+.label DLoop=$337e {
+}
+.label titles=$851
+.label MLoop=$341f
+.label nokey2=$301e

@@ -1,0 +1,21 @@
+parsing
+flex pass 1
+flex pass 2
+Output pass
+Writing prg file: game.prg
+
+Memory Map
+----------
+Main-segment:
+  $0810-$0c71 Code
+  $1000-$2dc1 Music
+  $3000-$34f2 Additional Code + Tables
+  $3500-$373f EW Logo Sprites
+  $4000-$3fff Bitmap
+  $6000-$63e7 ScreenRAM
+  $6400-$67e8 ColorRAM
+  $6800-$713f Sprites
+  $8000-$9e68 Title screen (packed)
+  $9e70-$bcd8 Game screen (packed)
+
+Writing Symbol file: game.sym
